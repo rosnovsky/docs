@@ -311,7 +311,7 @@ If you obtain Access Tokens for your SPAs, note that there are rate limits that 
   <tr>
     <td>Cross Origin Authentication</td>
     <td><code>/co/authenticate</code></td>
-    <td>Any Request</td>
+    <td>User ID</td>
     <td>5 requests per second</td>
   </tr>
 
