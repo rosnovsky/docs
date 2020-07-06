@@ -23,9 +23,9 @@ If you configure the following fields in your [Tenant Settings](${manage_url}/#/
 * **Support Email**: the email address of your company's support team
 * **Support URL**: the URL for your company's support page
 
-``` note
+::: note
 Auth0 will display the **Tenant** information exactly as entered on the Tenant Settings page.
-```
+:::
 
 In addition to these fields, the error page returns some contextual information to assist you in troubleshooting the source of an error. The following fields will be returned based on the request which resulted in the error:
 
